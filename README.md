@@ -9,6 +9,12 @@ GitHub CLIを使ってみた！
 - プルリクエストを一覧表示
 
 ```
-$ gh pr list
+gh pr list
+```
+
+- プルリクエストを作成
+
+```
+gh pr create [flags]
 ```
 
